@@ -1,20 +1,27 @@
-### Hi there 👋
+<img alt="Coding" src="./assets/coding.gif">
 
-- 🌱 I’m currently learning Web Development.
-- 📑 I am currently pursuing a Btech in Computer Science.
+## Hi I am noel
 
+---
 
-<!--
-**noelty/noelty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📑 Pursuing a B.Tech in Computer Science.
 
-Here are some ideas to get you started:
+- 💻 Currently diving into Web Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Exploring new technologies and innovations.
+
+- 💡 Eager to discover and create impactful projects.
+
+- 🎯 On a mission to turn my dreams into reality.
+
+- 🎸 Learning to play the guitar in my spare time.
+
+- 🏞️ Minecraft enthusiast.
+
+- 🌐 Aspiring to launch my own tech startup one day.
+
+---
+
+---
+
+Let's connect and grow together! 🌟

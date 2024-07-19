@@ -1,5 +1,3 @@
-file:///home/noel/Downloads/coding.gif
-
 ### Hi there 👋
 
 - 🌱 I’m currently learning Web Development.

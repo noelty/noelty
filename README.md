@@ -4,9 +4,9 @@
 
 ---
 
-- 📑 Pursuing a B.Tech in Computer Science.
+- 📑 CS Grad.
 
-- 💻 Currently diving into Web Development.
+- 💻 Currently diving into Backend Dev & AI/ML.
 
 - 🚀 Exploring new technologies and innovations.
 
